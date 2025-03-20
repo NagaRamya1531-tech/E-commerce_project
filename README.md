@@ -124,12 +124,5 @@ npm install -g @angular/cli
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License**.
-
----
-
-## **📞 Support**
-If you encounter any issues, feel free to open an issue or contact the maintainer.
 
 Happy Coding! 🚀🎉
